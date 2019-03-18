@@ -1,0 +1,17 @@
+# ???
+/.idea
+
+# ???
+/target
+
+# OUT
+/out
+
+# ALL .iml files
+*.iml
+
+# All .xml files
+*.xml
+
+# исключение самого git-ignore ???
+# .gitignore
