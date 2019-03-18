@@ -1,17 +1,15 @@
-# ???
+# Ignore .idea folder
 /.idea
 
-# ???
+# Ignore /out and /target folders
+/out
 /target
 
-# OUT
-/out
-
-# ALL .iml files
+# Ignore all .iml files
 *.iml
 
-# All .xml files
+# Ignore all .xml files
 *.xml
 
-# исключение самого git-ignore ???
+# Ingnore .gitignore file
 # .gitignore
